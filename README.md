@@ -78,6 +78,6 @@
 </div>
 
 ###
-![snake gif](https://github.com/tejaschaudhari192/tejaschaudhari192/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/tejaschaudhari192/tejaschaudhari192/blob/output/github-contribution-grid-snake.svg)
 
 ###
