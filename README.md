@@ -78,10 +78,6 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/tejaschaudhari192/tejaschaudhari192/output/snake.svg"
-  alt="Snake animation" />
+![snake gif](https://github.com/tejaschaudhari192/tejaschaudhari192/blob/output/github-contribution-grid-snake.gif)
 
 ###
