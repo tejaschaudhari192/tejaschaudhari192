@@ -1,4 +1,6 @@
-<h2 align="left">Hi 👋! My name is Tejas and I'm a Developer from Shirpur</h2>
+<div align="center">
+<img max-width="500" src="https://github.com/tejaschaudhari192/tejaschaudhari192/blob/main/res/readme%20banner.png"/>
+</div>
 
 ###
 
