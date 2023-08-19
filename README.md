@@ -83,7 +83,7 @@
 </div>
 
 ###
-h2 align="left">Views :</h2>
+<h2 align="left">Views :</h2>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/tejaschaudhari192/count.svg?"  />
