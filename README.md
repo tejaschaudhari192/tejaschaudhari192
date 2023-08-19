@@ -14,7 +14,7 @@
 </div>
 
 ###
-<br><br><br>
+<br><br>
 
 <div>
 <h2 align="center">            ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
@@ -62,9 +62,7 @@
 </div>
 
 ###
-<br><br><br>
-
-
+<br><br>
 <h2 align="center">           📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
 <br><br>
 <div align="left">
@@ -93,8 +91,7 @@
       height="35" alt="gmail logo" /></a>
 
 </div>
-
-<br><br><br>
+<br><br>
 ###
 <h2 align="left">Views :</h2>
 <br><br>
