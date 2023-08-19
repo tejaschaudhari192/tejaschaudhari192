@@ -14,6 +14,12 @@
 </div>
 
 ###
+<br><br><br>
+
+<div>
+<h2 align="center">            ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
+<br><br>
+ <br>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"
@@ -56,7 +62,11 @@
 </div>
 
 ###
+<br><br><br>
 
+
+<h2 align="center">           📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
+<br><br>
 <div align="left">
   <a href="https://www.linkedin.com/in/tejaschaudhari192"><img
       src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"
@@ -84,8 +94,10 @@
 
 </div>
 
+<br><br><br>
 ###
 <h2 align="left">Views :</h2>
+<br><br>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/tejaschaudhari192/count.svg?"  />
