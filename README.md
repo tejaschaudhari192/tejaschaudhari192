@@ -1,6 +1,6 @@
 # Welcome to My GitHub! 👋
 
-### Hi there, I'm [Tejas Chaudhari]! 🌟
+### Hi there, I'm Tejas Chaudhari! 🌟
 
 ---
 
