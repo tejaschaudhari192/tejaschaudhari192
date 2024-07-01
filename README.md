@@ -33,9 +33,9 @@ Sure! Here are the logos for MongoDB, MySQL, and SQL Server:
 ### Databases
 
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/en/4/45/MongoDB-Logo.svg" alt="MongoDB Logo" width="64" height="64">
+  <img src="https://www.mongodb.com/assets/images/global/favicon.ico" alt="MongoDB Logo" width="64" height="64">
   <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" alt="MySQL Logo" width="64" height="64">
-  <img src="https://upload.wikimedia.org/wikipedia/en/f/fd/Microsoft_SQL_Server_Logo.svg" alt="SQL Server Logo" width="64" height="64">
+  <img src="https://upload.wikimedia.org/wikipedia/en/f/f8/Microsoft_SQL_Server_Logo.svg" alt="SQL Server Logo" width="64" height="64">
 </p>
 
 ### Cloud Technologies
@@ -44,7 +44,6 @@ Sure! Here are the logos for MongoDB, MySQL, and SQL Server:
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS Logo" width="64" height="64">
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" alt="GCP Logo" width="64" height="64">
 </p>
-
      
 ---
 
