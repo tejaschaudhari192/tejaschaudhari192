@@ -12,43 +12,38 @@ Sure! Here are the logos for the languages and technologies you mentioned:
 
 Sure! Here are the logos for MongoDB, MySQL, and SQL Server:
 
-
 ### Programming Languages
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg" alt="C Logo" width="64" height="64">
-<img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java Logo" width="64" height="64">
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="64" height="64">
-
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg" alt="C Logo" width="64" height="64">
+  <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java Logo" width="64" height="64">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="64" height="64">
+</p>
 
 ### Web Development
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML Logo" width="64" height="64">
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS Logo" width="64" height="64">
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Logo" width="64" height="64">
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo" width="64" height="64">
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS Logo" width="64" height="64">
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML Logo" width="64" height="64">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS Logo" width="64" height="64">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Logo" width="64" height="64">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo" width="64" height="64">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS Logo" width="64" height="64">
+</p>
 
 ### Databases
 
-<img src="https://upload.wikimedia.org/wikipedia/en/4/45/MongoDB-Logo.svg" alt="MongoDB Logo" width="64" height="64">
-<img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" alt="MySQL Logo" width="64" height="64">
-<img src="https://upload.wikimedia.org/wikipedia/en/f/fd/Microsoft_SQL_Server_Logo.svg" alt="SQL Server Logo" width="64" height="64">
-
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/en/4/45/MongoDB-Logo.svg" alt="MongoDB Logo" width="64" height="64">
+  <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" alt="MySQL Logo" width="64" height="64">
+  <img src="https://upload.wikimedia.org/wikipedia/en/f/fd/Microsoft_SQL_Server_Logo.svg" alt="SQL Server Logo" width="64" height="64">
+</p>
 
 ### Cloud Technologies
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS Logo" width="64" height="64">
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" alt="GCP Logo" width="64" height="64">
-
-### Databases
-1. **MongoDB**
-   - ![MongoDB Logo](https://upload.wikimedia.org/wikipedia/en/4/45/MongoDB-Logo.svg)
-
-2. **MySQL**
-   - ![MySQL Logo](https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg)
-
-3. **SQL Server**
-   - ![SQL Server Logo](https://upload.wikimedia.org/wikipedia/en/f/fd/Microsoft_SQL_Server_Logo.svg)
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS Logo" width="64" height="64">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" alt="GCP Logo" width="64" height="64">
+</p>
 
      
 ---
@@ -81,4 +76,4 @@ Feel free to check out my repositories and contribute!
 
 Looking forward to connecting with you. Let's create something amazing together!
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=tejaschaudhari192.visitor-badge)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tejaschaudhari192&label=Profile%20views&color=0e75b6&style=flat" alt="shimpitejas" /> </p>
