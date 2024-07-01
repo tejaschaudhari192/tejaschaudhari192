@@ -30,9 +30,9 @@ I'm a passionate developer with a diverse skill set that includes:
 
 ### Recent Projects
 
-- [**Project 1**](https://github.com/tejaschaudhari192/Yummi): Brief description of Project 1
-- [**Project 2**](https://github.com/tejaschaudhari192/Collax): Brief description of Project 2
-- [**Project 3**](https://github.com//weather): Brief description of Project 3
+- [**Project 1**](https://github.com/tejaschaudhari192/Password-Manager): This is a Password Manager application built with amaing features using the MERN stack
+- [**Project 2**](https://github.com/tejaschaudhari192/Collax): [stage 1] A comprehensive collaborative platform - collaborative code editor and video conferncing
+- [**Project 3**](https://github.com/tejaschaudhari192/Yummi): Food ordering web app build with react and swiggy's live api
 
 Feel free to check out my repositories and contribute!
 
