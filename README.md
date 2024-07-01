@@ -14,47 +14,31 @@ Sure! Here are the logos for MongoDB, MySQL, and SQL Server:
 
 
 ### Programming Languages
-1. **C**
-   - ![C Logo](https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg)
 
-2. **Java**
-   - ![Java Logo](https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg" alt="C Logo" width="64" height="64">
+<img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java Logo" width="64" height="64">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="64" height="64">
 
-3. **Python**
-   - ![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
 
 ### Web Development
-1. **HTML**
-   - ![HTML Logo](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg)
 
-2. **CSS**
-   - ![CSS Logo](https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg)
-
-3. **JavaScript**
-   - ![JavaScript Logo](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)
-
-4. **React**
-   - ![React Logo](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
-
-5. **Tailwind CSS**
-   - ![Tailwind CSS Logo](https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML Logo" width="64" height="64">
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS Logo" width="64" height="64">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Logo" width="64" height="64">
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo" width="64" height="64">
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS Logo" width="64" height="64">
 
 ### Databases
-1. **MongoDB**
-   - ![MongoDB Logo](https://upload.wikimedia.org/wikipedia/en/4/45/MongoDB-Logo.svg)
 
-2. **MySQL**
-   - ![MySQL Logo](https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg)
+<img src="https://upload.wikimedia.org/wikipedia/en/4/45/MongoDB-Logo.svg" alt="MongoDB Logo" width="64" height="64">
+<img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" alt="MySQL Logo" width="64" height="64">
+<img src="https://upload.wikimedia.org/wikipedia/en/f/fd/Microsoft_SQL_Server_Logo.svg" alt="SQL Server Logo" width="64" height="64">
 
-3. **SQL Server**
-   - ![SQL Server Logo](https://upload.wikimedia.org/wikipedia/en/f/fd/Microsoft_SQL_Server_Logo.svg)
 
 ### Cloud Technologies
-1. **AWS**
-   - ![AWS Logo](https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg)
 
-2. **GCP**
-   - ![GCP Logo](https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS Logo" width="64" height="64">
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" alt="GCP Logo" width="64" height="64">
 
 ### Databases
 1. **MongoDB**
