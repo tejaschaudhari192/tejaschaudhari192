@@ -12,8 +12,8 @@ I'm a passionate developer with a diverse skill set that includes:
 
 ### Let's Connect!
 
-- **Instagram:** [Your Instagram Handle](https://www.instagram.com/tejas.chaudhari._)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/tejaschaudhari192)]
+- **Instagram:** [@tejas.chaudhari._](https://www.instagram.com/tejas.chaudhari._)
+- **LinkedIn:** [tejaschaudhari192](https://www.linkedin.com/in/tejaschaudhari192)]
 
 ---
 
